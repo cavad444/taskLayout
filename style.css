@@ -1,0 +1,68 @@
+
+*{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* Buy section begins*/
+.buy-section{
+
+  background: #352f44;
+ padding: 10px;
+}
+.buy-section-div{
+  display: flex;
+  justify-content: space-between;
+    margin:10px;
+}
+.buy-now-button{
+  background: #03c04a;
+  color: #fff;
+  padding:10px;
+  border-radius: 4px;
+  border: none;
+}
+/* Buy section ends*/
+
+/* Navigation section begins */
+
+.navigation-section{
+  display: flex;
+  justify-content: space-between;
+  margin-left:10px;
+  margin-right: 10px;
+  margin-top:20px;
+
+}
+
+.navigation{
+  display: flex;
+  gap:9px;
+}
+.navigation-section-icons{
+  display: flex;
+  gap:5px
+}
+
+.navigation-item{
+  list-style: none;
+}
+.navigation-logo-text{
+  width: 10px;
+}
+.navigation-section-logo-div{width: 210px;}
+/* Navigation section ends */
+
+/*Founder section begins*/
+.founder-section{
+  padding: 20px;
+}
+.founder-name{
+  font-size :21px;
+  font-weight: bold:
+}
+/*Founder section ends*/
+
+/* About company start*/
+  
+/* About company ends */
